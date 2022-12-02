@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "nzwalksapi": {
+    "NZWalksapi": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
