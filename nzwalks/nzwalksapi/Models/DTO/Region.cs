@@ -1,4 +1,4 @@
-﻿namespace NZWalksapi.Models.Domain
+﻿namespace NZWalksapi.Models.DTO
 {
     public class Region
     {
@@ -10,7 +10,7 @@
         public double Lat { get; set; }
         public long Population { get; set; }
 
-        public IEnumerable<Walk> Walks { get; set; }
+       
 
     }
 }
